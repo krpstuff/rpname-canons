@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEVERAFTER: CANONS</title>
+    <link rel="shortcut icon" href="{Favicon}">
+    <link rel="alternate" type="application/rss+xml" href="{RSS}">
+    <meta name="description" content="{MetaDescription}" />
+    
+    <!-- ======== STYLES ======== -->
+    <link rel="stylesheet" href="style.css">
+    
+    <!-- ======== FONTS ======== -->
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton+SC&family=Antonio:wght@100..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+    <!-- SCRIPTS -->    
+    <script src="app.js" type="module"></script>    
+</head>
+<body>
+    <!-- ======== CANON SEARCH ======== -->
+     <div class="search min">
+        <label for="canons">CHOOSE A CANON:</label>
+
+        <select name="canons" id="canon-dropdown">
+          <option value="ophelia" selected>Ophelia</option>
+          <option value="hamlet">Hamlet</option>
+          <option value="puck">Puck</option>
+        </select> 
+     </div>
+
+    <!-- ======== NAVIGATION ======== -->
+    <div class="navigation">
+        <ul>
+            <li><a href="/"><span class="lnr lnr-home" title="home"></span> <span class="nav-text">home</span></a></li>
+            <li><a href="/"><span class="lnr lnr-camera-video" title="plot"></span> <span class="nav-text">plot</span></a></li>
+            <li><a href="/"><span class="lnr lnr-picture" title="canons"></span> <span class="nav-text">canons</span></a></li>
+            <li><a href="/"><span class="lnr lnr-map" title="more"></span> <span class="nav-text">more</span></a></li>
+        </ul>
+    </div>
+    <!-- ======== MAIN ======== -->
+    <div class="main">
+        <div class="main-flex">
+            <!-- ======== SIDEBAR ======== -->
+            <div class="sidebar-container">
+                <div class="sidebar">
+                    <img src="http://via.placeholder.com/500x300.png" alt="" id="canon-image">
+                    <h1 id="canon-name">x</h1>
+                    <h2 id="canon-archtype">x</h2>
+                </div>
+
+                <div class="sidebar callout" id="canon-quote">
+                    x
+                </div>
+
+                <div class="sidebar">
+                    <p><span class="stat-label">name</span> <span id="char-name">x</span></p>
+                    <p><span class="stat-label">age</span> <span id="char-age">x</span></p>
+                    <p><span class="stat-label">gender</span> <span id="char-gender">x</span></p>
+                    <p><span class="stat-label">traits</span> <span id="char-traits">x</span></p>
+                </div>
+            </div>
+            <!-- ======== POSTS ======== -->
+            <div class="posts-container">
+                <div class="post">
+                    <h1>what we know</h1>
+                    <div class="post-content" >
+                        <blockquote id="canon-facts">
+                            x
+                        </blockquote>
+                    </div>
+                    <h1>what haunts them</h1>
+                    <div class="post-content">
+                        <blockquote id="canon-moment">
+                            x
+                        </blockquote>
+                    </div>
+                    <div class="extra-info">
+                        <h4><span class="lnr lnr-pushpin"></span> additional info</h5>
+                        <span id="canon-extra">x</span>
+                    </div>
+                    <div class="footnote">
+                        <p>
+                            <sup><b>1</b></sup> <span id="canon-power">x</span></sup>
+                        </p>
+                    </div>
+                </div>
+                <div id="char-tags">
+                    x
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

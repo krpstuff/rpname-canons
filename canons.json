@@ -1,0 +1,47 @@
+{
+    "ophelia": {
+        "canon-name": "ophelia",
+        "canon-image": "http://via.placeholder.com/500x300.png",
+        "canon-archtype": "whose soul has been <b>damned</b>",
+        "canon-quote": " <h1>\"</h1>i was the more deceived<h1>,,</h1>",
+        "char-name": "unknown",
+        "char-age": "##-##",
+        "char-gender": "any restrictions",
+        "char-traits": "mercurial, selfish, melancholic",
+        "canon-facts": "if not the whole soul - then certainly parts of it, those parts taken are hungry for something, there are not many things in the world shaped like a soul that will fit quite right - liquids become the best substitute (see: liquor, blood).",
+        "canon-moment": "as a preteen Ophelia wandered into the woods with Hamlet and got lost in the guts of it; they didn’t come back right. Ophelia came out second after being skimmed out from the bog, she believes she coughed out her soul with the mire; that creature, she knows, drank them both.",
+        "canon-extra": "Hamlet, Ophelia, and Horatio have forever been a friend group of three in a slow moving state of unravel",
+        "canon-power": "footnote power stuff here",
+        "char-tags": "<div class=\"tag\">the damned</div><div class=\"tag\">power name</div><div class=\"tag\">outsider</div>"
+    },
+    "hamlet": {
+        "canon-name": "hamlet",
+        "canon-image": "http://via.placeholder.com/500x300.png",
+        "canon-archtype": "blank <b>blank</b>",
+        "canon-quote": " <h1>\"</h1>quote<h1>,,</h1>",
+        "char-name": "unknown",
+        "char-age": "##-##",
+        "char-gender": "any restrictions",
+        "char-traits": "x, x, x",
+        "canon-facts": "x",
+        "canon-moment": "x",
+        "canon-extra": "x",
+        "canon-power": "x",
+        "char-tags": "<div class=\"tag\">archtype</div><div class=\"tag\">power name</div><div class=\"tag\">outsider/cult</div>"
+    },
+    "puck": {
+        "canon-name": "puck",
+        "canon-image": "http://via.placeholder.com/500x300.png",
+        "canon-archtype": "blank <b>blank</b>",
+        "canon-quote": " <h1>\"</h1>quote<h1>,,</h1>",
+        "char-name": "unknown",
+        "char-age": "##-##",
+        "char-gender": "any restrictions",
+        "char-traits": "x, x, x",
+        "canon-facts": "x",
+        "canon-moment": "x",
+        "canon-extra": "x",
+        "canon-power": "x",
+        "char-tags": "<div class=\"tag\">archtype</div><div class=\"tag\">power name</div><div class=\"tag\">outsider/cult</div>"
+    }
+}
