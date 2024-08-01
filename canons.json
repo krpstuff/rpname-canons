@@ -1,7 +1,7 @@
 {
     "ophelia": {
         "canon-name": "ophelia",
-        "canon-image": "http://via.placeholder.com/500x300.png",
+        "canon-image": "./images/ophelia.png",
         "canon-archtype": "whose soul has been <b>damned</b>",
         "canon-quote": " <h1>\"</h1>i was the more deceived<h1>,,</h1>",
         "char-name": "unknown",
